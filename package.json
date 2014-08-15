@@ -13,5 +13,12 @@
     "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-jscs": "^0.6.2"
+  },
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "express": "^4.8.4",
+    "jsonwebtoken": "^0.4.1",
+    "morgan": "^1.2.2",
+    "request": "^2.40.0"
   }
 }

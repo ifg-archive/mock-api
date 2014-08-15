@@ -53,3 +53,8 @@ tmtags
 
 bower_components/
 vendor/
+
+
+# Do not put Data files under Source Control
+*.json
+!package.json
